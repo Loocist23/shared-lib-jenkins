@@ -1,9 +1,0 @@
-# Dépendances Python pour le projet shared-lib-jenkins
-# Tests unitaires
-pytest>=7.0.0
-
-# Couverture de code
-pytest-cov>=4.0.0
-
-# Pour le typage (optionnel)
-mypy>=1.0.0
